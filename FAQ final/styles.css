@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.faq-item {
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.faq-question {
+    cursor: pointer;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 70%;
+}
+
+.faq-answer {
+    color: rgb(33, 34, 35);
+    background-color: #e2dfdf;
+    display: none;
+    padding: 10px;
+    border: 1px solid #ddd;
+    width: 70%;
+    padding: 20px;
+}
